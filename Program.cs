@@ -1,3 +1,7 @@
+using CheckedIn.Api;
+
+CheckedInContext context = new();
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
