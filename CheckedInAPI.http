@@ -1,0 +1,6 @@
+@CheckedInAPI_HostAddress = http://localhost:5221
+
+GET {{CheckedInAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
