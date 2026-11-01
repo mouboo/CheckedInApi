@@ -1,5 +1,5 @@
 // These lines were for the tutorial "test connection"
-// using CheckedIn.Api;
+using CheckedIn.Api;
 // CheckedInContext context = new();
 
 var builder = WebApplication.CreateBuilder(args);
